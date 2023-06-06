@@ -1,7 +1,3 @@
-CS5001 Final Project: Readme<br />
-Semester: Spring 2023<br />
-Student: Yushi Cui<br />
-
 <ins>Travel List project<ins>
 
 The Travel List project is a web application that allows users to create, manage, and share their favorite travel destinations. It's built using Python with Flask as the web framework, Jinja2 for templating HTML and CSS, and MongoDB as the database to store trip information.
